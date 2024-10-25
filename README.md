@@ -1,6 +1,9 @@
 ## Description
 The Weather Monitoring App provides real-time weather updates for specified cities. It fetches weather data from an API, stores it in a local SQLite database, and offers a user-friendly interface to display current and historical weather conditions.
 
+## Watch this project on youtube- 
+(https://youtu.be/m58c76SmMgw?si=AgnfW2-iDGLkjO7H)
+
 ## Features
 - Fetches real-time weather data using an external API.
 - Stores weather data in a SQLite database.
@@ -24,7 +27,6 @@ cd weather_monitoring_app
 pip install -r requirements.txt
 ## Usage
 To start the weather monitoring application, run:
-```bash
 python weather_monitor.py
 
 ##Configuration
